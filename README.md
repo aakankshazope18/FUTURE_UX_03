@@ -44,19 +44,24 @@ Parallel workflow:
 Client → Tasks → Follow-ups → Status Updates
 
 -- Pages
-1. Main Dashboard 
+1. Main Dashboard
+
 Goal: Quick business insights in seconds.
 
-2. Lead Pipeline 
+2. Lead Pipeline
+ 
 Goal: Reduce missed follow-ups and improve sales tracking.
 
 3. Client List
+
 Goal: Fast scanning and management of active clients.
 
 4. Client Profile View
+
 Goal: Centralized client understanding.
 
 5. Tasks & Follow-ups
+
 Goal: Improve accountability and execution.
 
 -- Key UX Decisions
