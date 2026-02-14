@@ -87,3 +87,16 @@ GitHub – Documentation and submission
 
 -- Figma Design Link
 https://www.figma.com/design/hrhaf5LZeebNYPPaFbm1wq/Task-3?node-id=15-836&t=dqZpeXnXz896MPdg-1
+
+-- Learnings & Outcomes
+Applied real B2B SaaS UX principles
+Designed workflow-based interfaces
+Improved dashboard structuring skills
+Learned scalable layout thinking
+Practiced professional UI documentation
+
+Task Information
+Internship Track: UI/UX Design
+Task: Task 3 – CRM / Client Management Dashboard UI
+Type: Web-based SaaS Dashboard
+Status: Completed
